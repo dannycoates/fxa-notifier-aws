@@ -1,0 +1,14 @@
+{
+  "name": "fxa-notifier-aws",
+  "version": "1.0.0",
+  "description": "Firefox Account event notifier using AWS (SNS+SQS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test"
+  },
+  "author": "",
+  "license": "MPL 2.0",
+  "dependencies": {
+    "aws-sdk": "2.0.23"
+  }
+}
