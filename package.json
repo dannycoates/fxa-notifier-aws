@@ -1,10 +1,14 @@
 {
   "name": "fxa-notifier-aws",
   "version": "1.0.0",
-  "description": "Firefox Account event notifier using AWS (SNS+SQS)",
+  "description": "Firefox Accounts event notifier using AWS (SNS+SQS)",
   "main": "index.js",
   "scripts": {
     "test": "tap test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dannycoates/fxa-notifier-aws.git"
   },
   "author": "",
   "license": "MPL 2.0",
